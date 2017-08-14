@@ -1,5 +1,5 @@
 /*
-   Bottom-up dynamic programming solution to find LCS: longuest common subsequence of two
+   Bottom-up dynamic programming solution to find LCS: longest common subsequence of two
    strings:
 
    LCS(abcd,agdh)= ad,  length = 2
